@@ -34,6 +34,9 @@ Let's connect and explore the world of technology together! 🤝
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" alt="Mongodb logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="40" alt="Python logo" />
+  
 </div>
 
 
