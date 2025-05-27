@@ -57,6 +57,7 @@ Let's connect and explore the world of technology together! 🤝
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" height="40" alt="Linux logo" />
 </div>
+<br>
 
 > I'm also reading and practicing concepts in Software Engineering and Networking essentials. 📚🛡️
 
