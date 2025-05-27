@@ -42,7 +42,6 @@ Let's connect and explore the world of technology together! 🤝
 
 <br>
 
-<br>
 
 ## 🧪 Currently Studying
 
@@ -52,13 +51,15 @@ Let's connect and explore the world of technology together! 🤝
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" height="40" alt="Laravel logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="40" alt="Docker logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" height="40" alt="Linux logo" />
 </div>
-
+<br>
 > I'm also reading and practicing concepts in Software Engineering and Networking essentials. 📚🛡️
-
+<br>
 
 
 ## Socials
