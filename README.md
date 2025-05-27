@@ -9,7 +9,7 @@ Let's connect and explore the world of technology together! 🤝
 
 <br>
 
-## Skills
+## 💻 Skills
 
 <div align="left">
   <img width="12" />
@@ -43,7 +43,7 @@ Let's connect and explore the world of technology together! 🤝
 <br>
 
 
-## 🧪 Currently Studying
+## 📚 Learning
 
 <div align="left">
   <img width="12" />
@@ -64,7 +64,7 @@ Let's connect and explore the world of technology together! 🤝
 <br>
 
 
-## Socials
+## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/federicoyingrasso/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;">
