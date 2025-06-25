@@ -53,9 +53,53 @@ Let's connect and explore the world of technology together! 🤝
 </div>
 <br>
 
-> I'm also reading and practicing concepts in Software Engineering and Networking essentials. 📚🛡️
 
+## 🌟 Area of Interests
+
+- 🛠️ **Software Engineering**
+  
+  - Principles and methodologies: SOLID, design patterns (Factory, Repository, Dependency Injection), Clean Code, monolithic vs. microservices architectures.  
+  - Software lifecycle: versioning (Git flow), CI/CD (tools like GitHub Actions, GitLab CI, Jenkins), automated testing (unit, integration, end-to-end).  
+  - Documentation and processes: writing clear technical documentation (README, API docs with Swagger/OpenAPI), code review and issue/ticket management within a team.  
+  - Practical examples: refactoring a module in a Laravel project, implementing tests with PHPUnit, creating a CI pipeline for automatic staging deployment.  
+  - Next steps: dive deeper into event-driven architectures, Domain-Driven Design (DDD), observability practices (logging, monitoring).  
 <br>
+
+- 🌐 **Networking Essentials**
+  
+  - Fundamentals studied: OSI vs. TCP/IP models, computer networking concepts and components (switch, router, NIC), packet and frame structure, encapsulation layers.  
+  - Main protocols: IP (IPv4/IPv6), TCP, UDP; understanding headers, flow control and error handling.  
+  - Network security and best practices: basics of firewalling, network segmentation, VLANs, VPN in simple scenarios.  
+  - Current experiments: next goal → Sockets, Ports, and Low-Level Client–Server Communication:  
+    - Exercise examples: implement a simple echo server/client in Python or PHP, experiment with TCP/UDP sockets on a local VM, analyze TCP handshake with Wireshark.  
+  - Next steps: build a mini chat server or a simple proxy to understand packet routing at the application level, explore tools like Netcat for quick tests, study networking libraries/frameworks in your preferred stack, investigate QoS concepts.  
+<br>
+
+- 🔐 **CyberSecurity**
+  
+  - Explored fundamentals: CIA Triad (Confidentiality, Integrity, Availability), OWASP Top 10 (e.g. SQL Injection, XSS) and secure coding principles.  
+  - Hardening and best practices: secure server configuration, permission and role management, protecting REST APIs.  
+  - Next steps: delve into applied encryption for secure communications, study application security in Laravel/PHP, participate in communities or Cyber Ranges.  
+<br>
+
+- 🔑 **Cryptography and Cryptanalysis**
+  
+  - Cryptography basics: symmetric (AES, DES) vs. asymmetric (RSA, ECC), hashing (SHA family), digital signatures.  
+  - Communication security protocols: TLS/SSL, certificates, PKI, key management.  
+  - Basic cryptanalysis concepts: types of attacks (brute force, dictionary attacks, side-channel attacks at an introductory level), importance of entropy and secure random number generation.  
+  - Next steps: explore advanced protocols (e.g. Zero-Knowledge Proofs), participate in cryptography challenges, integrate cryptographic modules securely into microservices.  
+<br>
+
+- 🤖 **AI Systems and Intelligent Agents**
+  
+  - Fundamentals covered: introduction to Artificial Intelligence (terminology, brief history), basic Machine Learning (e.g. supervised vs. unsupervised, data-model-evaluation pipeline) and NLP for LLMs (understanding tokenization, embeddings, pre-trained language models).  
+  - Next steps:  
+    - Deepen advanced ML: study deep learning models on specific datasets, understand training/fine-tuning medium-sized models (in cloud or locally if possible).  
+    - Theoretical Reinforcement Learning: grasp core mechanisms, but focus first on consolidating ML fundamentals.  
+    - Advanced prompt engineering: experiment with more sophisticated prompts, model chaining, hybrid backend+LLM systems for specific tasks (e.g. intelligent assistants, automated log analysis for anomaly detection).  
+    - Integration: evaluate how to incorporate AI/ML components into your backend stack (standalone services, “intelligent” microservices, orchestration), prototype projects to assess latency and scalability.  
+<br>
+
 
 
 ## 🌐 Socials
