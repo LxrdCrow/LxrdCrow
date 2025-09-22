@@ -66,20 +66,21 @@ Let's connect and explore the world of technology together! 🤝
 <br>
 
 - 🌐 **Networking Essentials**
-  
-  - Fundamentals studied: OSI vs. TCP/IP models, computer networking concepts and components (switch, router, NIC), packet and frame structure, encapsulation layers.  
-  - Main protocols: IP (IPv4/IPv6), TCP, UDP; understanding headers, flow control and error handling.  
-  - Network security and best practices: basics of firewalling, network segmentation, VLANs, VPN in simple scenarios.  
-  - Current experiments: next goal → Sockets, Ports, and Low-Level Client–Server Communication:  
-    - Exercise examples: implement a simple echo server/client in Python or PHP, experiment with TCP/UDP sockets on a local VM, analyze TCP handshake with Wireshark.  
-  - Next steps: build a mini chat server or a simple proxy to understand packet routing at the application level, explore tools like Netcat for quick tests, study networking libraries/frameworks in your preferred stack, investigate QoS concepts.  
+
+  - Fundamentals studied: OSI vs. TCP/IP models, networking concepts and components (switch, router, NIC – Network Interface Card), packet and frame structure, encapsulation layers.
+  - Main protocols: IP (IPv4/IPv6), TCP, UDP; understanding headers, flow control, and error handling.
+  - Security and best practices: basics of firewalling, network segmentation, VLANs, VPN in simple scenarios.
+  - Current experiments: preparing for Sockets, Ports, and Low-Level Client–Server Communication.
+  - Example exercises: implement a simple echo server/client in Python, experiment with TCP/UDP sockets on a local VM, analyze the TCP handshake with Wireshark.
+  - Next steps: build a mini chat server or a simple proxy to explore packet routing at the application level, use tools like Netcat for quick socket testing, study networking libraries/frameworks in your stack, and investigate QoS concepts.
 <br>
 
 - 🔐 **CyberSecurity**
-  
-  - Explored fundamentals: CIA Triad (Confidentiality, Integrity, Availability), OWASP Top 10 (e.g. SQL Injection, XSS) and secure coding principles.  
-  - Hardening and best practices: secure server configuration, permission and role management, protecting REST APIs.  
-  - Next steps: delve into applied encryption for secure communications, study application security in Laravel/PHP, participate in communities or Cyber Ranges.  
+
+  - Explored fundamentals: CIA Triad (Confidentiality, Integrity, Availability), OWASP Top 10 (e.g. SQL Injection, XSS), and secure coding principles.
+  - Hardening and best practices: secure server configuration, permission and role management, REST API protection.
+  - Lab experiments: hotspot setup and analysis, basic port scanning and traffic monitoring.
+  - Next steps: study applied encryption for secure communications, deepen application security in Python/Flask, and engage with communities or Cyber Ranges for practice.
 <br>
 
 - 🔑 **Cryptography and Cryptanalysis**
@@ -92,7 +93,7 @@ Let's connect and explore the world of technology together! 🤝
 
 - 🤖 **AI Systems and Intelligent Agents**
   
-  - Fundamentals covered: introduction to Artificial Intelligence (terminology, brief history), basic Machine Learning (e.g. supervised vs. unsupervised, data-model-evaluation pipeline) and NLP for LLMs (understanding tokenization, embeddings, pre-trained language models).  
+  - Fundamentals covered: introduction to Artificial Intelligence (terminology, brief history), basic Machine Learning (e.g. supervised vs. unsupervised, data-model-evaluation pipeline) and NLP for LLMs.  
   - Next steps:  
     - Deepen advanced ML: study deep learning models on specific datasets, understand training/fine-tuning medium-sized models (in cloud or locally if possible).  
     - Theoretical Reinforcement Learning: grasp core mechanisms, but focus first on consolidating ML fundamentals.  
