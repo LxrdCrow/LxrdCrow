@@ -54,7 +54,7 @@ Let's connect and explore the world of technology together! 🤝
 <br>
 
 
-## 🌟 Area of Interests
+## 🧠​ Area of Interests
 
 - 🛠️ **Software Engineering**
   
