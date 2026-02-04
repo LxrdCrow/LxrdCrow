@@ -11,7 +11,13 @@
 
 ---
 
+<br>
+
+
 ## 💻 Skills
+
+<br>
+
 
 <div align="left">
   <img width="12" />
@@ -34,6 +40,9 @@
 
 ## 📚 Learning
 
+<br>
+
+
 <div align="left">
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="40" alt="Python logo" />
@@ -49,7 +58,7 @@
 
 ## 🧠​ Area of Interests
 
----
+
 
 ### 🌐 **Networking & System Communication**
 
