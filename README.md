@@ -11,6 +11,9 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
 
 <br>
 
+---
+
+
 ### 💻 Skills
 
 <br>
@@ -37,6 +40,8 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
 
 <br>
 
+---
+
 
 ### 📚 Learning
 
@@ -54,6 +59,8 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="40" alt="Docker logo" />
 </div>
 <br>
+
+---
 
 
 ### 🧠​ Area of Interests
