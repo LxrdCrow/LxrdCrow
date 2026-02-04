@@ -3,10 +3,10 @@
 
 > I am a passionate Back-End Developer 💻 with a strong interest in programming and a constant desire to learn something new 🚀  
 >  
-> My interests lie at the intersection of backend systems, networking fundamentals, and cybersecurity — understanding how data moves, how protocols behave, and how vulnerabilities emerge at the system level. I’m steadily building hands-on knowledge in networking, application security, and low-level client–server communication, aiming to design software that is secure by design, not secured as an afterthought.  
->  
-> Currently preparing for the CompTIA Security+ certification to strengthen my foundations in cybersecurity.  
->  
+> My interests lie at the intersection of backend systems, networking fundamentals, and cybersecurity — understanding how data moves, how protocols behave, and how vulnerabilities emerge at the system level.
+>
+> I’m steadily building hands-on knowledge in networking, application security, and low-level client–server communication, aiming to design software that is secure by design, not secured as an afterthought. Currently preparing for the CompTIA Security+ certification to strengthen my foundations in cybersecurity.  
+> 
 > Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the guitar 🎸, and study languages 🌐 — all things that keep my strategic and creative thinking sharp.
 
 ---
