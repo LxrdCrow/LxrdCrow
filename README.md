@@ -1,6 +1,4 @@
-# Hi, I'm Federico! ☀️
-
-### Backend Developer | Systems & Security Mindset
+## Backend Developer | Systems & Security Mindset
 
 I am a passionate Back-End Developer 💻 with a strong interest in programming and a constant desire to learn something new 🚀
 
@@ -13,7 +11,7 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
 
 <br>
 
-## 💻 Skills
+### 💻 Skills
 
 <div align="left">
   <img width="12" />
@@ -37,7 +35,7 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
 <br>
 
 
-## 📚 Learning
+### 📚 Learning
 
 <div align="left">
   <img width="12" />
@@ -52,7 +50,7 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
 <br>
 
 
-## 🧠​ Area of Interests
+### 🧠​ Area of Interests
 
 <br>
 
