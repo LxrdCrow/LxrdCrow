@@ -12,9 +12,6 @@
 ---
 
 ## 💻 Skills
-<table>
-<tr>
-<td>
 
 <div align="left">
   <img width="12" />
@@ -33,16 +30,9 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" height="40" alt="Linux logo" />
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📚 Learning
-<table>
-<tr>
-<td>
 
 <div align="left">
   <img width="12" />
@@ -54,10 +44,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="40" alt="Docker logo" />
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
