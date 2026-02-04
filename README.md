@@ -13,6 +13,9 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
 
 ### 💻 Skills
 
+<br>
+
+
 <div align="left">
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" alt="JavaScript logo" />
@@ -36,6 +39,9 @@ Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the gui
 
 
 ### 📚 Learning
+
+<br>
+
 
 <div align="left">
   <img width="12" />
