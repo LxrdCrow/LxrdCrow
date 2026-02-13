@@ -5,7 +5,7 @@
 >  
 > My interests lie at the intersection of backend systems, networking fundamentals, and cybersecurity. Understanding how data moves, how protocols behave, and how vulnerabilities emerge at the system level.
 >
-> I’m steadily building hands-on knowledge in networking, application security, and low-level client–server communication, aiming to design software that is secure by design, not secured as an afterthought. Currently preparing for the CompTIA Security+ certification to strengthen my foundations in cybersecurity.  
+> I’m steadily building hands-on knowledge in networking, application security, and low-level client-server communication, aiming to design software that is secure by design, not secured as an afterthought. Currently preparing for the CompTIA Security+ certification to strengthen my foundations in cybersecurity.  
 > 
 > Outside tech, I play chess ♟️, read 📚, write stories ✍️, play the guitar 🎸, and study languages 🌐, all things that keep my strategic and creative thinking sharp.
 
@@ -49,9 +49,9 @@
 ### 🌐 **Networking & System Communication**
 
 - Solid foundation in networking fundamentals (OSI vs. TCP/IP, packet/frame structure, encapsulation, core network components).
-- Protocol understanding: IP (IPv4/IPv6), TCP, UDP — headers, flow control, error handling, and connection lifecycle.
+- Protocol understanding: IP (IPv4/IPv6), TCP, UDP, headers, flow control, error handling, and connection lifecycle.
 - Practical exposure: traffic analysis with Wireshark, port scanning concepts, and network behavior observation.
-- Focus area: low-level client–server communication, sockets, ports, and how applications interact with the network stack.
+- Focus area: low-level client-server communication, sockets, ports, and how applications interact with the network stack.
 - Perspective: studying networking as a base layer for system design and cybersecurity.
 
 ---
